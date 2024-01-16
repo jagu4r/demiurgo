@@ -1,4 +1,2 @@
 # demiurgo
-# =========
-#
-# A first approach to a open source LLM tool.
+#### A first approach to a open source LLM tool.
